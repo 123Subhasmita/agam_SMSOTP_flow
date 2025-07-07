@@ -32,7 +32,9 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": true,
+			"deletable": false
 		},
 		{
 			"data": {
